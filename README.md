@@ -2,12 +2,12 @@
 
 This is a desktop application, built using Java, to play basic pong game.
  
-Click to see the [Demo](https://user-images.githubusercontent.com/77228428/190872810-9b564f0c-4171-4336-9fe6-7098aec247bc.mp4).
-
 ![Screenshot from 2022-09-18 00-56-09](https://user-images.githubusercontent.com/77228428/190873506-f1e71c6b-f7c7-4454-9e72-2dd9eafdcd71.png)
 
 - In the top-centre, it is the Score of the match.
 - The Control for blue paddle are 'W'(for up) and 'S'(for down) keys, and for red one, the controls are default up(↑) and down(↓) keys.
+
+Click to here see the full gameplay [Demo](https://user-images.githubusercontent.com/77228428/190872810-9b564f0c-4171-4336-9fe6-7098aec247bc.mp4).
 
 ## Setup the Project on your local system
 
