@@ -7,7 +7,7 @@ This is a desktop application, built using Java, to play basic pong game.
 - In the top-centre, it is the Score of the match.
 - The Control for blue paddle are 'W'(for up) and 'S'(for down) keys, and for red one, the controls are default up(↑) and down(↓) keys.
 
-Click to here see the full gameplay [Demo](https://user-images.githubusercontent.com/77228428/190872810-9b564f0c-4171-4336-9fe6-7098aec247bc.mp4).
+#### Click to here see the full gameplay [Demo](https://user-images.githubusercontent.com/77228428/190872810-9b564f0c-4171-4336-9fe6-7098aec247bc.mp4).
 
 ## Setup the Project on your local system
 
